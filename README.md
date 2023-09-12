@@ -1,7 +1,7 @@
 ### Hi i'm Nabih 👋
 
 
-- 👨‍🎓 I'm a M2 student in Artificial Intelligence at [USTHB](https://www.usthb.dz/)
+- 👨‍🎓 I'm M2 student in Artificial Intelligence at [USTHB](https://www.usthb.dz/)
 - 🧑‍💻I'm currently learning web development </> and AI 🤖 on my own through various projects
 - Member of MicroClub 
 ### I have already worked with
